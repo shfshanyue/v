@@ -1,0 +1,16 @@
+{
+  "name": "vdom",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "example": "echo example",
+    "build": "rollup -c"
+  },
+  "author": "shanyue",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "rollup": "^0.47.0"
+  }
+}
